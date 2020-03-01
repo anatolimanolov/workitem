@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WIM/WIM.iml" filepath="$PROJECT_DIR$/WIM/WIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WIM.Tests/WIM.Tests.iml" filepath="$PROJECT_DIR$/WIM.Tests/WIM.Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work Item Management (WIM).iml" filepath="$PROJECT_DIR$/Work Item Management (WIM).iml" />
+    </modules>
+  </component>
+</project>
